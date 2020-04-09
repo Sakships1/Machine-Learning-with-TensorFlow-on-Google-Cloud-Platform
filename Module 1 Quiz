@@ -1,0 +1,14 @@
+# Machine-Learning-with-TensorFlow-on-Google-Cloud-Platform
+Course1- How Google does Machine Learning
+
+1.Question 1
+What is a common reason for an ML model that works well in training but fails in production?
+Ans:-  (d) The ML dataset was improperly created
+
+2.Question 2
+Personalized Algorithms are often built using which type of ML model?
+Ans:- (a) Recommendation systems
+
+3.Question 3
+What is a key lesson Google has learned with regards to reducing the chance of failure in production ML models?
+Ans:- (c) Process batch data and streaming data the same way
